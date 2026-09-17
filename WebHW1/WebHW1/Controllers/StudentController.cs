@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebHW2.Models;
+using WebHW1.Models;
 
-namespace WebHW2.Controllers
+namespace WebHW1.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -19,7 +19,7 @@ namespace WebHW2.Controllers
             new Student
             {
                 Id = 2,
-                Name = "Alfred",
+                Name = "Saken",
                 Age = 38
             }
         };
