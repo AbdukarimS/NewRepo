@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace HomewIP.Controllers
+namespace WebHW2.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using HomewIP.Models;
+using WebHW2.Models;
 
-namespace HomewIP.Controllers
+namespace WebHW2.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -12,15 +12,15 @@ namespace HomewIP.Controllers
             new Student
             {
                 Id = 1,
-                Name = "Ayan",
-                Age = 20
+                Name = "Almat",
+                Age = 34
             },
 
             new Student
             {
                 Id = 2,
-                Name = "Dana",
-                Age = 21
+                Name = "Alfred",
+                Age = 38
             }
         };
 

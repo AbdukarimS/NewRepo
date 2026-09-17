@@ -1,4 +1,4 @@
-﻿namespace HomewIP.Models
+﻿namespace WebHW2.Models
 {
     public class Student
     {

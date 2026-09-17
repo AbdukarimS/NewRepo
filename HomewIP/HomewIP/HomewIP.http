@@ -1,6 +1,0 @@
-@HomewIP_HostAddress = http://localhost:5198
-
-GET {{HomewIP_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

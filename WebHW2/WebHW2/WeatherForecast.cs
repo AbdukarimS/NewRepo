@@ -1,4 +1,4 @@
-namespace HomewIP
+namespace WebHW2
 {
     public class WeatherForecast
     {
