@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebHW1.Models;
 
-namespace BooksApi.Controllers
+namespace WebHW1.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
