@@ -1,0 +1,6 @@
+@Weblab2Ds_HostAddress = http://localhost:5211
+
+GET {{Weblab2Ds_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
