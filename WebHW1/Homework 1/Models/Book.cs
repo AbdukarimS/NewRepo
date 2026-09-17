@@ -1,4 +1,4 @@
-﻿namespace Homework_1.Models
+﻿namespace WebHW1.Models
 {
     public class Book
     {

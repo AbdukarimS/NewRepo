@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Homework_1.Models;
+using WebHW1.Models;
 
 namespace BooksApi.Controllers
 {
@@ -12,23 +12,23 @@ namespace BooksApi.Controllers
             new Book
             {
                 Id = 1,
-                Title = "Война и мир",
-                Author = "Лев Толстой",
-                Year = 1869
+                Title = "Капитанская дочка",
+                Author = "Александр Пушкин",
+                Year = 1755
             },
             new Book
             {
                 Id = 2,
-                Title = "Преступление и наказание",
-                Author = "Фёдор Достоевский",
-                Year = 1866
+                Title = "Муму",
+                Author = "Иван Тургенев",
+                Year = 1803
             },
             new Book
             {
                 Id = 3,
-                Title = "Мастер и Маргарита",
-                Author = "Михаил Булгаков",
-                Year = 1967
+                Title = "Абайдың қара сөздері",
+                Author = "Абай Құнанбайұлы",
+                Year = 1890
             }
         };
 
